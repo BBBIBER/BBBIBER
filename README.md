@@ -1,3 +1,4 @@
+# Hello 👋
 안녕하세요! 저는 제조 산업에 AI를 접목하는 데 열정을 가진 오승택입니다. 🏭
 저의 비전은 예측 모델링과 이상 탐지를 활용하여 공정을 더욱 스마트하게 만들고, 효율성을 극대화하는 것입니다.
 
@@ -10,9 +11,9 @@
 ## 산업 AI 엔지니어 | 가상센서 · 이상진단 · 열정산/연소 효율 모니터링
 
 <p>
-  <img src="https://img.shields.io/badge/Industrial_AI-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Industrial_AI-8B5CF6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Virtual_Sensor-0EA5E9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Anomaly_Detection-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Anomaly_Detection-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Heat_Balance-F97316?style=for-the-badge" />
 </p>
 
@@ -36,7 +37,6 @@
 
 </div>
 
----
 
 ## 소개
 - 제철/정유 가열로 공정을 대상으로 산업 AI 시스템을 설계하고 구현합니다.
