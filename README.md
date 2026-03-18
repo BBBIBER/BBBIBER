@@ -64,10 +64,10 @@
 
 #### 머신러닝 · 모델링
 <p>
-  <img src="https://img.shields.io/badge/LightGBM-0F766E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/XGBoost-1D4ED8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/LightGBM-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/XGBoost-1D4ED8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PCA-7C3AED?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PLS-2563EB?style=for-the-badge" />
 </p>
@@ -83,10 +83,10 @@
 
 #### 도메인
 <p>
+  <img src="https://img.shields.io/badge/Time_Series_Data-0F766E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Steel_Reheating_Furnace-1F2937?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Refinery_Heater-4B5563?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Combustion_Efficiency-9A3412?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Time_Series_Data-0F766E?style=for-the-badge" />
 </p>
 
 ## 주요 성과
